@@ -1,4 +1,5 @@
 body {
-    background-image: linear-gradient(navy,gold,red,green,blue);
+    background-image: linear-gradient(navy,darkgreen,white,gold,white,green,blue);
     height: 1000px;
+   
 }
